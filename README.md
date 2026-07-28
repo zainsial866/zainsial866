@@ -7,6 +7,8 @@
 </picture>
 
 </div>
+
+
 <div align="center">
 
 <img width="100%" src="https://streak-stats.demolab.com?user=zainsial866&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=DC2626&currStreakLabel=22D3EE&sideLabels=5B6B85&currStreakNum=C9D4E8&sideNums=C9D4E8&dates=5B6B85&titleColor=22D3EE" alt="GitHub streak stats" />
