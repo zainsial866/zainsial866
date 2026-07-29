@@ -19,6 +19,8 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_dots=#2d3343,#7C3AED,#A78BFA,#22D3EE,#10B981&color_snake=#10B981
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Push snake SVGs to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
