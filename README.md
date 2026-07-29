@@ -19,3 +19,12 @@
 <img width="49%" src="https://github-readme-stats-ecru-five-99.vercel.app/api/top-langs/?username=zainsial866&layout=compact&hide_border=true&title_color=22D3EE&text_color=C9D4E8&bg_color=0A101F" alt="Top languages" />
 
 </div>
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zainsial866/zainsial866/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zainsial866/zainsial866/output/github-contribution-grid-snake.svg">
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/zainsial866/zainsial866/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
