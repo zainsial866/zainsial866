@@ -28,3 +28,14 @@
 </picture>
 
 </div>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/muhammad-zain-ul-abdin-1b4073375/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/iamzsial"><img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=E1306C" alt="Instagram"></a>&nbsp;&nbsp;
+<a href="https://facebook.com/zainsial866"><img src="https://img.shields.io/badge/Facebook-0A101F?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook"></a>&nbsp;&nbsp;
+<a href="mailto:zainsial866@gmail.com"><img src="https://img.shields.io/badge/Gmail-0A101F?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail"></a>&nbsp;&nbsp;
+<a href="https://dev.to/iamzsial"><img src="https://img.shields.io/badge/Dev.to-0A101F?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"></a>&nbsp;&nbsp;
+<a href="https://hashnode.com/@iamzainsial"><img src="https://img.shields.io/badge/Hashnode-0A101F?style=for-the-badge&logo=hashnode&logoColor=2962FF" alt="Hashnode"></a>&nbsp;&nbsp;
+<a href="https://zainsial.com"><img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=vercel&logoColor=22D3EE" alt="Portfolio"></a>
+
+</div>
