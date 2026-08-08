@@ -36,6 +36,6 @@
 <a href="mailto:zainsial866@gmail.com"><img src="https://img.shields.io/badge/Gmail-0A101F?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail"></a>&nbsp;&nbsp;
 <a href="https://dev.to/iamzsial"><img src="https://img.shields.io/badge/Dev.to-0A101F?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"></a>&nbsp;&nbsp;
 <a href="https://hashnode.com/@iamzainsial"><img src="https://img.shields.io/badge/Hashnode-0A101F?style=for-the-badge&logo=hashnode&logoColor=2962FF" alt="Hashnode"></a>&nbsp;&nbsp;
-<a href="https://zainsial.com"><img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=vercel&logoColor=22D3EE" alt="Portfolio"></a>
+<a href="https://zainsial866.github.io/"><img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=vercel&logoColor=22D3EE" alt="Portfolio"></a>
 
 </div>
